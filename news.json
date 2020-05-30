@@ -1,6 +1,6 @@
 {
     "status": "ok",
-    "totalResults": 187,
+    "totalResults": 284,
     "articles": [
         {
             "source": {
@@ -85,6 +85,32 @@
                 "id": "the-times-of-india",
                 "name": "The Times of India"
             },
+            "author": null,
+            "title": "Live: 'India\u2019s managed to distribute corona curve'",
+            "description": "India's Covid-19 count has risen to nearly 1.69 lakh cases while the death toll is close to 5,000. Maharashtra has again reported by far the country\u2019s highest number of cases. Stay here for all live updates",
+            "url": "http://timesofindia.indiatimes.com/india/coronavirus-in-india-live-updates-indias-managed-to-distribute-corona-curve-says-icmr-chief/articleshow/76100905.cms",
+            "urlToImage": null,
+            "publishedAt": "2020-05-29T22:48:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "T. Appala Naidu",
+            "title": "Corona positive woman delivers baby boy",
+            "description": "She has been allowed to breastfeed with precautions",
+            "url": "https://www.thehindu.com/news/national/andhra-pradesh/corona-positive-woman-delivers-baby-boy/article31699050.ece",
+            "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+            "publishedAt": "2020-05-28T18:40:30Z",
+            "content": "A 24-year-old woman, who was tested positive for COVID-19 on Tuesday, delivered a baby boy at GSL Hospital in East Godavari district on Thursday. Doctors said that the health condition of the woman a\u2026 [+1407 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
             "author": "TNN",
             "title": "Corona makes even young draw up their wills",
             "description": "The inevitability of death, security of one's family or an anticipated wrangling over inheritance has never got an average Indian worried enough to start thinking about writing a will till one is in the late 50s.",
@@ -144,6 +170,19 @@
             "urlToImage": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2020/05/Eid.jpg",
             "publishedAt": "2020-05-25T08:28:15Z",
             "content": "Amidst everything that Covid-19 has transformed dramatically, today Eid-ul-Fitr is top of the mind. As it brings the Muslim holy month of Ramzan to a close every year, it is usually celebrated with l\u2026 [+1196 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Corona: A Very bad 'gift' from China, says Trump",
+            "description": "US News: US President Donald Trump has yet again taken a swipe at China over coronavirus pandemic, that continues to ravage the world. \"All over the world the",
+            "url": "https://timesofindia.indiatimes.com/world/us/coronavirus-pandemic-a-very-bad-gift-from-china-tweets-trump/articleshow/76074569.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-76074710,width-1070,height-580,imgsize-130581,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2020-05-28T14:57:12Z",
+            "content": "All over the World the CoronaVirus, a very bad gift from China, marches on. Not good!\r\n\u2014 Donald J. Trump (@realDonaldTrump) 1590676450000"
         },
         {
             "source": {
@@ -238,6 +277,19 @@
         },
         {
             "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Divya Goyal",
+            "title": "For Afghan Sikhs, fear of another terror attack bigger than corona",
+            "description": "Community leaders in Afghanistan said that were just waiting for lockdown to end in India.",
+            "url": "https://indianexpress.com/article/cities/ludhiana/for-afghan-sikhs-fear-of-another-terror-attack-bigger-than-corona-6432872/",
+            "urlToImage": "https://images.indianexpress.com/2020/05/afghan-sikh-759.jpg?w=759",
+            "publishedAt": "2020-05-29T07:58:25Z",
+            "content": "Written by Divya Goyal\r\n | Ludhiana | \r\nPublished: May 29, 2020 1:28:25 pm\r\nForced to share cramped rooms at gurdwaras after March 25 attack, Sikhs look to India, wait for lockdown to end. Express ph\u2026 [+5422 chars]"
+        },
+        {
+            "source": {
                 "id": "the-times-of-india",
                 "name": "The Times of India"
             },
@@ -252,6 +304,45 @@
         {
             "source": {
                 "id": null,
+                "name": "Nofilmschool.com"
+            },
+            "author": "Jason Hellerman",
+            "title": "Summer Movies, a Requiem in the Time of Corona",
+            "description": "This is a different summer for movies, but summer movies should still be celebrated. \r\nThere's no doubt that this is a hard time of the year for many. The summer season is when we all can be outside, enjoying one another and having a blast. For many of us in \u2026",
+            "url": "https://nofilmschool.com/summer-movies-requiem",
+            "urlToImage": "https://nofilmschool.com/sites/default/files/styles/facebook/public/page-header_0.jpeg?itok=ZVNK1Jm3",
+            "publishedAt": "2020-05-29T18:45:00Z",
+            "content": "This is a different summer for movies, but summer movies should still be celebrated.\u00a0\r\nThere's no doubt that this is a hard time of the year for many. The summer season is when we all can be outside,\u2026 [+2947 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Packagingoftheworld.com"
+            },
+            "author": "noreply@blogger.com (Derrick Lin)",
+            "title": "Corona Extra - Redesigned for China",
+            "description": "Design: Aman JhunjhunwalaLocation: IndiaProject Type: Student ProjectSchool: Indian School Of Design and InnovationPackaging Contents: Corona Extra - Beer ( Pale lager)Packaging Substrate / Materials: Aluminium CanPrinting Process: Offset printingCorona beer \u2026",
+            "url": "https://www.packagingoftheworld.com/2020/05/corona-extra-redesigned-for-china.html",
+            "urlToImage": "https://1.bp.blogspot.com/-tLqjAldmdpY/Xs8_PzqmlXI/AAAAAAAG2gw/DGCqAHko8zoe1xXzIFGlaVaTq1doTU6TwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Corona%2BExtra%2B%25281%2529.jpg",
+            "publishedAt": "2020-05-28T05:48:00Z",
+            "content": "Corona Extra is a pale lager produced by Cervecer\u00eda Modelo in Mexico and owned by AB InBev in Belgium. It is one of the top-selling beers worldwide.According to the Oxford dictionary, the word Corona\u2026 [+576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "PickYourSpots",
+            "title": "GetSwift: A Smart Bet On The Post-Corona Delivery Revolution",
+            "description": "GetSwift\u2019s Growth Has Accelerated After Coronavirus Led to More Deliveries and Delivery Model Becomes Widespread Post-Coronavirus. Restaurants Prefer Controllin",
+            "url": "https://seekingalpha.com/article/4350840-getswift-smart-bet-on-post-corona-delivery-revolution",
+            "urlToImage": "https://static1.seekingalpha.com/images/marketing_images/bull_bear/bull/bull_1.png",
+            "publishedAt": "2020-05-29T15:41:05Z",
+            "content": "From restaurants to grocers and dairies, the coronavirus pandemic has forced businesses across the retail industry to accelerate the transformation to a full-service delivery model - or risk losing c\u2026 [+5449 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Seeking Alpha"
             },
             "author": "Peter Arendas",
@@ -261,6 +352,19 @@
             "urlToImage": "https://static.seekingalpha.com/images/marketing_images/mining_minerals/bucket_wheel_excavator_openpit_mine.jpeg",
             "publishedAt": "2020-05-22T08:38:18Z",
             "content": "Also the major mining companies have to deal with the corona crisis. To suspend mining operations, to adopt some additional safety measures, and, of course, to deal with weaker metals prices. In this\u2026 [+10386 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Seeking Alpha"
+            },
+            "author": "Danil Kolyako",
+            "title": "Yandex: Not So Immune To Corona As You Might Think",
+            "description": "The coronavirus outbreak is going to reveal the biggest downside of Yandex's case: the company is tied tightly with the ever-shrinking Russian economy. Yandex.T",
+            "url": "https://seekingalpha.com/article/4350832-yandex-not-immune-to-corona-you-might-think",
+            "urlToImage": "https://static.seekingalpha.com/uploads/2020/5/18/49396430-15898447461704953.png",
+            "publishedAt": "2020-05-29T14:49:14Z",
+            "content": "Photo source: Yandex; edited by Author\r\nWhat's the most important factor to look at when we talk about growth stocks? That's right, growth. In the case of Yandex (NASDAQ:YNDX), I see a clear contradi\u2026 [+8045 chars]"
         },
         {
             "source": {
@@ -368,6 +472,19 @@
         },
         {
             "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Special Correspondent",
+            "title": "State song to honour corona warriors",
+            "description": "Claiming that Odisha\u2019s COVID-19 mortality rate was one of the lowest in the world, State Chief Minister Naveen Patnaik on Thursday urged the Odia people to sing \u2018Bande Utkal Janani\u2019, considered the St",
+            "url": "https://www.thehindu.com/news/national/other-states/state-song-to-honour-corona-warriors/article31699393.ece",
+            "urlToImage": "https://www.thehindu.com/static/theme/default/base/img/og-image.jpg",
+            "publishedAt": "2020-05-28T19:20:27Z",
+            "content": "A letter from the Editor\r\nDear reader,\r\nWe have been keeping you up-to-date with information on the developments in India and the world that have a bearing on our health and wellbeing, our lives and \u2026 [+561 chars]"
+        },
+        {
+            "source": {
                 "id": null,
                 "name": "Forbes"
             },
@@ -408,6 +525,19 @@
         {
             "source": {
                 "id": null,
+                "name": "CoinDesk"
+            },
+            "author": "Ada Hui",
+            "title": "Defying Corona Crash, BlockTower Crypto Fund Stretches 30% Total Return to 73%",
+            "description": "When coronavirus shutdowns roiled financial markets, BlockTower Capital more than doubled its cryptocurrency hedge fund's previously so-so returns.",
+            "url": "https://www.coindesk.com/defying-corona-crash-blocktower-crypto-fund-stretches-30-total-return-to-73",
+            "urlToImage": "https://static.coindesk.com/wp-content/uploads/2020/05/45976799884_b45903d624_k.jpg",
+            "publishedAt": "2020-05-28T08:00:00Z",
+            "content": "BlockTower Capitals hedge fund of cryptocurrencies was trudging along. Then, unexpectedly, it more than doubled its returns this year as most investors and companies languished from the coronavirus-s\u2026 [+5622 chars]"
+        },
+        {
+            "source": {
+                "id": null,
                 "name": "Patheos"
             },
             "author": "Terry Firma",
@@ -417,6 +547,32 @@
             "urlToImage": "https://wp-media.patheos.com/subdomain/sites/8/2020/05/PaulMachiraNairobi-768x429.png",
             "publishedAt": "2020-05-24T23:00:28Z",
             "content": "An Anglican preacher in Kenya has decided to take his act on the road. Literally. \r\nIn a Christianity-meets-corona version of the\u00a0Pied Piper of Hamelin, the Rev. Paul Machira, accompanied by singers \u2026 [+2490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fark.com"
+            },
+            "author": null,
+            "title": "Brazil surpasses the United States in number of daily Corona deaths. Of course once the weather in Brazil gets warm, the Corona should just vanish [Scary]",
+            "description": "Brazil surpasses the United States in number of daily Corona deaths. Of course once the weather in Brazil gets warm, the Corona should just vanish",
+            "url": "https://www.fark.com/comments/10827453/Brazil-surpasses-United-States-in-number-of-daily-Corona-deaths-Of-course-once-weather-in-Brazil-gets-warm-Corona-should-just-vanish",
+            "urlToImage": "https://fark-usrimg-full.nyc3.digitaloceanspaces.com/h/hf/fark_hfNug3M7tlEaKLf7WNxbjWiigxg.jpg?AWSAccessKeyId=HBAYEKZHGUB4NAYQBVSQ&Expires=1590984000&Signature=UJc4LDxrvFul6YEg8mA%2Byu7At8E%3D",
+            "publishedAt": "2020-05-28T15:34:29Z",
+            "content": "<li>Links are submitted by members of the Fark community.\r\n</li><li>When community members submit a link, they also write a custom headline for the story.\r\n</li><li>Other Farkers comment on the links\u2026 [+177 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hindu",
+                "name": "The Hindu"
+            },
+            "author": "Special Correspondent",
+            "title": "Corona robs the sheen off a milestone event",
+            "description": "Very limited numbers participate in the major event",
+            "url": "https://www.thehindu.com/news/cities/Hyderabad/corona-robs-the-sheen-off-a-milestone-event/article31704772.ece",
+            "urlToImage": "https://www.thehindu.com/news/cities/Hyderabad/e3swp9/article31704771.ece/ALTERNATES/LANDSCAPE_615/HY30CROWD",
+            "publishedAt": "2020-05-29T15:59:10Z",
+            "content": "On Friday the grand event of pumping Godavari water from Murkook pump-house to Kondapochammasagar in Mulugu mandal was the realisation of a long-cherished dream of seeing Godavari waters in the parch\u2026 [+1076 chars]"
         },
         {
             "source": {
@@ -460,197 +616,41 @@
         {
             "source": {
                 "id": null,
-                "name": "The Express Tribune"
+                "name": "101 Great Goals"
             },
-            "author": "Hasnaat Malik, Anadolu Agency, AFP , News Desk, \u200b News Desk, Anadolu Agency, Entertainment Desk, Entertainment Desk, APP , Muhammad Ilyas",
-            "title": "Authorities understating corona infections in prisons: JPP",
-            "description": "NGO says 384 prisoners in Pakistan have reportedly tested positive\nThe post Authorities understating corona infections in prisons: JPP appeared first on The Express Tribune.",
-            "url": "https://tribune.com.pk/story/2227611/1-authorities-understating-corona-infections-prisons-jpp/",
-            "urlToImage": "https://c.tribune.com.pk/2020/05/2227611-jailprisonsafpx-1590216227-193-640x480.jpg",
-            "publishedAt": "2020-05-23T06:45:28Z",
-            "content": "PHOTO: FILE \r\nISLAMABAD:\u00a0Several human rights organizations have raised concerns about lack of transparency in the reporting of Covid-19 infections in Pakistani prisons, said the Justice Project Paki\u2026 [+2817 chars]"
+            "author": "Conor Laird",
+            "title": "Agent of Porto star Corona confirms Chelsea talks",
+            "description": "Chelsea\u2019s search for summer reinforcements appears to have taken the club to Portugal, with the agent of Porto star Jesus Corona having confirmed that he held discussions with the Blues over a potential Stamford Bridge switch for his client. Porto standout Co\u2026",
+            "url": "https://www.101greatgoals.com/news/agent-of-porto-star-corona-confirms-chelsea-talks/",
+            "urlToImage": "https://www.101greatgoals.com/wp-content/uploads/2019/07/GettyImages-1161224068.jpg",
+            "publishedAt": "2020-05-29T12:47:31Z",
+            "content": "Chelsea\u2019s search for summer reinforcements appears to have taken the club to Portugal, with the agent of Porto star Jesus Corona having confirmed that he held discussions with the Blues over a potent\u2026 [+2544 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Yahoo Entertainment"
+                "name": "Euroquis.nl"
             },
-            "author": "Mike Snider, USA TODAY",
-            "title": "Yes, Corona is selling big during coronavirus pandemic, but so is Coors Light and Miller Lite",
-            "description": "In the COVID-19 crisis, beer buyers have turned to big brands like Corona and Coors Light and are buying beer in bulk.",
-            "url": "https://finance.yahoo.com/news/yes-corona-selling-big-during-224329206.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/o1ChM269iI_7x_EsWSc8Qw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD0xNjAw/https://s.yimg.com/uu/api/res/1.2/ZAg_dOCyUDMv.2sl4QlHyQ--~B/aD0xMDgwO3c9ODY0O3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en-us/usa_today_money_325/907365d273cdd1ba730bd21c7ac363c9",
-            "publishedAt": "2020-05-22T22:43:29Z",
-            "content": "Just because much of the nation has been under stay-at-home orders doesn't mean we don't want to crack a cold one at the end of the day, or maybe even earlier.\r\nFavorite drinking establishments have \u2026 [+5410 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Reuters",
-            "title": "German business morale recovers in May as corona restrictions are eased",
-            "description": "German business morale rebounded in May, a survey showed on Monday, recovering from its most dramatic fall on record the previous month as firms become more optimistic as curbs to slow the spread of the coronavirus are gradually lifted. The Ifo institute said\u2026",
-            "url": "https://finance.yahoo.com/news/german-business-morale-recovers-may-081856112.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/BvjvoiTmfSuJJos22cBOwQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD04NDYuNA--/https://s.yimg.com/uu/api/res/1.2/x.6.NwEfibTzc9yUjk0JfQ--~B/aD01Mjk7dz04MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-US/reuters.com/97a0b0745e316a15981e4ab15355029b",
-            "publishedAt": "2020-05-25T08:18:56Z",
-            "content": "BERLIN (Reuters) - German business morale rebounded in May, a survey showed on Monday, recovering from its most dramatic fall on record the previous month as firms become more optimistic as curbs to \u2026 [+508 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "CounterPunch"
-            },
-            "author": "David Yearsley",
-            "title": "Corona Carpenter",
-            "description": "Cameron Carpenter, the irrepressibly brilliant American organist, is not one to stay still. To watch him in the cockpit of his International Touring Organ, a two-million dollar technological marvel contrived not by Lockheed Martin but by the digital organ bui\u2026",
-            "url": "https://www.counterpunch.org/2020/05/22/corona-carpenter/",
-            "urlToImage": "https://www.counterpunch.org/wp-content/dropzone/2018/06/cp-og-logo.png",
-            "publishedAt": "2020-05-22T07:05:52Z",
-            "content": "Cameron Carpenter, the irrepressibly brilliant American organist, is not one to stay still. To watch him in the cockpit of his International Touring Organ, a two-million dollar technological marvel c\u2026 [+8957 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "KABC \u2013 Los Angeles",
-            "title": "Patrons flock to Corona diner for first sit-in meal in over 2 months",
-            "description": "One day after Riverside County received state approval to begin reopening more businesses, some local restaurants opened their doors for guests eager to have their first sit-in meal in over two months.",
-            "url": "https://news.yahoo.com/patrons-flock-corona-diner-first-231315156.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OHOO4TNBTVfCKoWFrU8xUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyODA7aD03MjA-/https://s.yimg.com/uu/api/res/1.2/Mj68K8XkR7pZuu0mDkjjkg--~B/aD03MjA7dz0xMjgwO3NtPTE7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/hd/cp-video-transcode/prod/2020-05/23/5ec9ae87b43fec69be441e81/5ec9ae87b43fec69be441e82_o_U_v2.jpg",
-            "publishedAt": "2020-05-23T23:13:15Z",
-            "content": "One day after Riverside County received state approval to begin reopening more businesses, some local restaurants opened their doors for guests eager to have their first sit-in meal in over two month\u2026 [+1 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Yahoo Entertainment"
-            },
-            "author": "Jessa Crispin",
-            "title": "Corona rage is boiling over. To ease tensions, masks should be mandatory",
-            "description": "Messaging about masks has been inconsistent and contradictory. This confusion is leading to angry altercations with strangersA man shot a cook at a Waffle House in Colorado, after the customer was told he must have a face mask to enter the restaurant. When hi\u2026",
-            "url": "https://news.yahoo.com/corona-rage-boiling-over-ease-102949903.html",
-            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/yeKacv4im.LAXACz4XfCCw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEwMDA7aD02MDA-/https://s.yimg.com/uu/api/res/1.2/K.c3CGWzF1qgk.FZEQ7xRg--~B/aD0zMDA7dz01MDA7c209MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en-GB/the_guardian_765/a859cae09d70ea30664efa775bcb7010",
-            "publishedAt": "2020-05-25T10:29:49Z",
-            "content": "Photograph: Erik Pendzich/Rex/Shutterstock\r\nA man shot a cook at a Waffle House in Colorado, after the customer was told he must have a face mask to enter the restaurant. When his childish attempt to\u2026 [+6024 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "The Hollywood Gossip"
-            },
-            "author": "Tyler Johnson",
-            "title": "Kylie Jenner Puts Boobs on Display to Help Heal a Corona-Ravaged Nation",
-            "description": "Kylie Jenner is still delivering top-notch quarantine content. This time, the world's youngest self-made billionaire offered up some major cleavage.",
-            "url": "https://www.thehollywoodgossip.com/2020/05/kylie-jenner-puts-boobs-on-display-to-help-heal-a-corona-ravaged/",
-            "urlToImage": "https://the-hollywood-gossip-res.cloudinary.com/iu/s--oP4NkUWP--/t_full/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1590494286/kylie-jenner-filtered.png",
-            "publishedAt": "2020-05-26T19:02:37Z",
-            "content": "The word \"hero\" gets thrown around a lot these days, and in some cases, the label might be applied inappropriately.\n\nBut we don't think anyone would argue with the fact that Kylie Jenner is the great\u2026 [+2113 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Out.com"
-            },
-            "author": "Donald Padgett",
-            "title": "This Doctor Beat Corona Before Winning Mr. Gay World 2020",
-            "description": "His reign will be short, but the Spanish heartthob intends to make a difference.",
-            "url": "https://www.out.com/news/2020/5/22/doctor-beat-corona-winning-mr-gay-world-2020",
-            "urlToImage": "https://www.out.com/sites/out.com/files/mr.-gay-world.jpg",
-            "publishedAt": "2020-05-22T14:43:11Z",
-            "content": "Looks like there's a new Mr. Gay World in town.\r\nSince 2009, Mr. Gay World has annually crowned a new titleholder. For the first time in the event's history, this year the event was postponed due to \u2026 [+2405 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "DAWN.com"
-            },
-            "author": "none@none.com (Amir Wasim)",
-            "title": "PM\u2019s Corona Relief Fund crosses Rs4bn mark",
-            "description": "ISLAMABAD: Amid calls by the opposition parties for auditing of the amount so far spent by the government in the fight against the Covid-19 pandemic in the country, the ruling Pakistan Tehreek-i-Insaf (PTI) has announced that the Prime Minister Corona Relief \u2026",
-            "url": "https://www.dawn.com/news/1559588",
-            "urlToImage": "https://i.dawn.com/large/2020/05/5ecdde4e87b2f.jpg",
-            "publishedAt": "2020-05-27T01:33:57Z",
-            "content": "ISLAMABAD: Amid calls by the opposition parties for auditing of the amount so far spent by the government in the fight against the Covid-19 pandemic in the country, the ruling Pakistan Tehreek-i-Insa\u2026 [+4547 chars]"
+            "author": "Adriaan de Groot ([ade])",
+            "title": "Some notes on Corona",
+            "description": "Three months ago I went to Colombia for a mix of visit-family and \nvisit-colleagues. At the time, COVID-19 wasn\u2019t called that\nin the media, and travel was still pretty normal.\n\n\n\nTwo-and-a-half months ago I jumped in the Amazon river, saw some of the\nrarest a\u2026",
+            "url": "https://euroquis.nl//blabla/2020/05/29/corona.html",
+            "urlToImage": null,
+            "publishedAt": "2020-05-28T22:00:00Z",
+            "content": "Three months ago I went to Colombia for a mix of visit-family and \r\nvisit-colleagues. At the time, COVID-19 wasnt called that\r\nin the media, and travel was still pretty normal.\r\nTwo-and-a-half months\u2026 [+4510 chars]"
         },
         {
             "source": {
                 "id": null,
                 "name": "The Good Men Project"
             },
-            "author": "APO Africa Newsroom",
-            "title": "Kenyan HealthTech Startup Afya Rekod Launching AI Consumer Data Driven Platform in support of Global Efforts to Curb Corona Pandemic!",
-            "description": "Drive connectivity and engagement between patients, doctors and other health care providers\nThe post Kenyan HealthTech Startup Afya Rekod Launching AI Consumer Data Driven Platform in support of Global Efforts to Curb Corona Pandemic! appeared first on The Go\u2026",
-            "url": "https://goodmenproject.com/technology/kenyan-healthtech-startup-afya-rekod-launching-ai-consumer-data-driven-platform-in-support-of-global-efforts-to-curb-corona-pandemic/",
-            "urlToImage": "https://goodmenproject.com/wp-content/uploads/2020/03/founder-1.jpg",
-            "publishedAt": "2020-05-27T07:00:01Z",
-            "content": "NAIROBI, Kenya, March 25, 2020/APO Group/ \u2014The AI and Blockchain powered platform aim to capture real time users/patients health data; drive connectivity and engagement between patients, doctors and \u2026 [+3704 chars]"
-        },
-        {
-            "source": {
-                "id": "google-news",
-                "name": "Google News"
-            },
-            "author": null,
-            "title": "Corona Tracker 1.7.1 - Coronavirus tracker. (Free)",
-            "description": "Corona Tracker coronavirus tracker app for iOS & macOS with maps & charts. \n\nFeatures \n<ul> \n<li>Live data: Shows the most recent data, and updates automatically.</li> \n<li>Distribution map with two levels of details.</li> \n<li>Charts.</li> \n<li>Search for co\u2026",
-            "url": "http://feedproxy.google.com/~r/macupdate/~3/0C5dtG0OpK8/1590146121",
-            "urlToImage": null,
-            "publishedAt": "2020-05-22T11:15:21Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Newstracklive.com"
-            },
-            "author": "Shivani Gite",
-            "title": "Corona infection can cause thyroid diseases - News Track English",
-            "description": "Washington: According to a new case study published in The Journal of Clinical Endocrinology and Metabolism amid Corona Crisis, Covid-19 infection can lead to subacute thyroiditis. Subacute thyroiditis is an inflammatory thyroid disease that specifically incr\u2026",
-            "url": "https://english.newstracklive.com/news/corona-infection-can-cause-thyroid-diseases-mc24-nu910-ta910-ta277-1094590-1.html",
-            "urlToImage": "https://media.newstracklive.com/uploads/world-news//May/23/big_thumb/hhff_5ec8e541da3a9.jpeg",
-            "publishedAt": "2020-05-23T12:58:41Z",
-            "content": null
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "EUobserver"
-            },
-            "author": "EUobserver",
-            "title": "[Ticker] EU gives \u20ac3bn corona assistance to neighbour states",
-            "description": "The EU Council announced last week (20 May) it had \"adopted a decision to provide up to \u20ac3bn of macro-financial assistance to 10 enlargement and neighbourhood partners to help them cope with the economic fallout of the Covid-19 pandemic\". \"Financial assistanc\u2026",
-            "url": "https://euobserver.com/tickers/148437",
-            "urlToImage": "https://s3.eu-central-1.amazonaws.com/euobs-media/6e5f90e3e78121ba09aefe7419b47a16-480x.jpg",
-            "publishedAt": "2020-05-25T05:00:41Z",
-            "content": "Today, 07:01Alarm Phone, a hotline service for migrants in distress, has released video footing showing an Armed Forces of Malta (AFM) boat making dangerous manoeuvres next to people swimming for the\u2026 [+48 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Android Headlines"
-            },
-            "author": "yackulic",
-            "title": "Top 6 MMOs You Can Play During The Corona Pandemic",
-            "description": "People look for different games to fulfill their free time, which was especially true during the current period. Even now, a few months after the worst-case scenario, we are feeling the effects. The pandemic took its toll on everybody. People found different \u2026",
-            "url": "https://www.androidheadlines.com/2020/05/top-6-mmos-play-during-corona-pandemic.html",
-            "urlToImage": "https://www.androidheadlines.com/wp-content/uploads/2020/05/WoW-game-featured.jpg",
-            "publishedAt": "2020-05-27T09:10:16Z",
-            "content": "People look for different games to fulfill their free time, which was especially true during the current period. Even now, a few months after the worst-case scenario, we are feeling the effects. The \u2026 [+5887 chars]"
-        },
-        {
-            "source": {
-                "id": null,
-                "name": "Bitsandpieces.us"
-            },
-            "author": "Jonco",
-            "title": "Corona Beer Challenge",
-            "description": "Read all about it.",
-            "url": "https://www.bitsandpieces.us/2020/05/26/corona-beer-challenge/",
-            "urlToImage": "http://img.youtube.com/vi/FPtJLLGiBQQ/0.jpg",
-            "publishedAt": "2020-05-26T16:00:00Z",
-            "content": null
+            "author": "Chris Wiewiora",
+            "title": "The Loneliness of a Short Distance Runner: Divorce in the Time of Corona",
+            "description": "I knew however far I ran away I would have to run back.\nThe post The Loneliness of a Short Distance Runner: Divorce in the Time of Corona appeared first on The Good Men Project.",
+            "url": "https://goodmenproject.com/featured-content/loneliness-of-a-short-distance-runner-divorce-in-the-time-of-corona-kpkn/",
+            "urlToImage": "https://goodmenproject.com/wp-content/uploads/2020/05/shutterstock_311056901.jpg",
+            "publishedAt": "2020-05-29T15:30:28Z",
+            "content": "I ran past shoulder to shoulder married couples, but still they were six feet away from me. Magnolias blossomed with their white flowers casting an incense of calm remembrance. Solar votive candles l\u2026 [+6254 chars]"
         }
     ]
 }
